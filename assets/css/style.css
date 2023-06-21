@@ -209,8 +209,20 @@ header .fa-bars {
 
 .left {
     width: 50%;
-    height: 500px;
+    height: 600px;
     background: url(../images/left.jpg) no-repeat center / cover;
     border-radius: 8px;
+}
+
+.right {
+    width: 50%;
+    min-height: 600px;
+    max-height: 650px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    border-radius: 8px;
+    color: rgb(20, 20, 20);   
 }
 
