@@ -265,3 +265,20 @@ header .fa-bars {
     color: rgb(255, 255, 255);
 }
 
+.newsletter{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    min-height: 200px;
+    background-color: #000;
+}
+.newsletter-text{
+    margin-left: 20%;
+    color: #fff;
+}
+.newsletter-form{
+    margin-right: 20%;
+
+}
+
