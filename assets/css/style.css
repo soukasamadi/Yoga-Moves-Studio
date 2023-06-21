@@ -90,6 +90,9 @@ header .fa-bars {
     cursor: pointer;
     display: none;
 }
+header .member-icon{
+    display: none;
+}
 
 .home {
     display: flex;
