@@ -178,4 +178,16 @@ header .fa-bars {
     height: 180px
 }
 
+.container .box-container .box h3 {
+    color: black;
+    font-size: 20px;
+    padding: 10px 0;
+}
+
+.container .box-container .box p {
+    color: #777;
+    font-size: 15px;
+    line-height: 1.8;
+}
+
 
