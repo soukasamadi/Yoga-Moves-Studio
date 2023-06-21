@@ -137,3 +137,22 @@ header .fa-bars {
     background-color: black;
     color: #fff;
 }
+
+/* discover what moves you section */
+.move {
+    margin-top: 35 px;
+    text-align: center;
+}
+
+.move h1 {
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+
+.move p {
+    font-size: 20px;
+    margin: 0 auto;
+    line-height: 30px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
