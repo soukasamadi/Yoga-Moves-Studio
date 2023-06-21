@@ -39,7 +39,15 @@ header .logo {
 }
 
 header .logo span {
-    color: #d4b895;
+    color: #d4b895f4;
     font-weight: 400;
 }
+
+header .navbar a {
+    font-size: 2rem;
+    margin: 0 1.5rem;
+    color: #333;
+    padding-bottom: 1rem;
+}
+
 
