@@ -207,3 +207,10 @@ header .fa-bars {
     justify-content: center;
 }
 
+.left {
+    width: 50%;
+    height: 500px;
+    background: url(../images/left.jpg) no-repeat center / cover;
+    border-radius: 8px;
+}
+
