@@ -389,6 +389,7 @@ footer h3 {
 
     html {
         font-size: 50%;
+        overflow: hidden;
     }
 
     header .member-btn a {
@@ -402,5 +403,23 @@ footer h3 {
     }
     header .member-icon a{
         color: rgb(20, 20, 20);
+    }
+
+    .container {
+        padding: 15%;
+    }
+    .text-imagee-container {
+        display: block;       
+    }
+    .left {
+        width: 100%;
+    }
+    
+    .right {
+        width: 80%;
+        display: block; 
+        background-color: #fff;  
+        margin-top: -100px;
+        margin-left: 10%;
     }
 }
