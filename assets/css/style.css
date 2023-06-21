@@ -226,3 +226,25 @@ header .fa-bars {
     color: rgb(20, 20, 20);   
 }
 
+.right .text-text {
+    padding-top: 10px;
+}
+
+.right .text-text h3 {
+    font-size: 14px;
+}
+
+.right .text-text h2 {
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.right .text-text p {
+    margin: 20px 0;
+    font-weight: 500;
+    line-height: 30px;
+    font-size: 20px;
+    color: #333;
+    font-weight: 500;
+}
+
