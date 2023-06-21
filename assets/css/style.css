@@ -124,3 +124,12 @@ header .fa-bars {
     margin-bottom: 25px;
     line-height: 22px;
 }
+.content a {
+    padding: 1rem 3rem;
+    background-color: #fff;
+    font-size: 18px;
+    color: black;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 3px;
+}
