@@ -400,4 +400,7 @@ footer h3 {
         font-size: 25px;
         margin-right: 10%;
     }
+    header .member-icon a{
+        color: rgb(20, 20, 20);
+    }
 }
