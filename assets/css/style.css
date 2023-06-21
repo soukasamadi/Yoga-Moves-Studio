@@ -51,3 +51,15 @@ header .navbar a {
 }
 
 
+header .navbar a:hover {
+    color: #d4b895;
+    border-bottom: 1px solid #d4b895;
+}
+
+header .navbar .active {
+    color: #333;
+}
+
+header .navbar .active:hover {
+    color: #333;
+}
