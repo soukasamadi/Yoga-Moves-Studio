@@ -31,3 +31,15 @@ header {
     box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .1);
 }
 
+header .logo {
+    font-size: 3rem;
+    color: #333;
+    font-weight: bolder;
+    letter-spacing: -2px;
+}
+
+header .logo span {
+    color: #d4b895;
+    font-weight: 400;
+}
+
