@@ -394,4 +394,10 @@ footer h3 {
     header .member-btn a {
         visibility: hidden;
     }
+
+    header .member-icon{
+        display: block;
+        font-size: 25px;
+        margin-right: 10%;
+    }
 }
