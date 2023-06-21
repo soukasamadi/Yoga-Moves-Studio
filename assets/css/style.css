@@ -303,6 +303,14 @@ header .fa-bars {
     padding:14px 15px 15px 10px;
     font-size: 16px;
 }
-
-
+footer {
+    margin-top: 50px;
+    height: 100px;
+}
+.social-media {
+    text-align: center;
+}
+.social-media > li {
+    display: inline;
+}
 
