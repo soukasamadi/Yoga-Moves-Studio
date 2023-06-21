@@ -191,3 +191,19 @@ header .fa-bars {
 }
 
 
+/*image text section*/
+.text-imagee {
+    min-height: 100vh;
+    width: 100%;
+    background-color: #fff;
+}
+
+.text-imagee-container {
+    width: 90%;
+    max-width: 1000px;
+    margin: 50px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
