@@ -63,3 +63,17 @@ header .navbar .active {
 header .navbar .active:hover {
     color: #333;
 }
+
+header .member-btn a {
+    background-color: black;
+    padding: 1rem 1.5rem;
+    color: #fff;
+    font-size: 1.5rem;
+    letter-spacing: 4px;
+    font-weight: 500;
+}
+
+header .member-btn a:hover {
+    background-color: #d4b895;
+    color: #333;
+}
