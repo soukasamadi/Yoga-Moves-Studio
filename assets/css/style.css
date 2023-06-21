@@ -143,6 +143,10 @@ header .fa-bars {
     margin-top: 35 px;
     text-align: center;
 }
+.move-content{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
 
 .move h1 {
     font-size: 35px;
