@@ -133,3 +133,7 @@ header .fa-bars {
     font-weight: 600;
     letter-spacing: 3px;
 }
+.content a:hover {
+    background-color: black;
+    color: #fff;
+}
