@@ -274,7 +274,7 @@ header .fa-bars {
     background-color: #000;
 }
 .newsletter-text{
-    margin-left: 20%;
+    margin-left: 12%;
     color: #fff;
 }
 
@@ -287,7 +287,21 @@ header .fa-bars {
     font-size: 18px;   
 }
 .newsletter-form{
-    margin-right: 20%;
+    margin-right: 12%;
+}
+.newsletter-form input{
+    width: 250px;
+    padding: 16px 20px; 
+    box-sizing: border-box;
+    border-radius: 8px 0  0 8px;
+}
+.newsletter-form a{
+    margin-left: -3px;
+    color: white;
+    background-color: #333;
+    border-radius: 0 8px 8px 0;
+    padding:14px 15px 15px 10px;
+    font-size: 16px;
 }
 
 
