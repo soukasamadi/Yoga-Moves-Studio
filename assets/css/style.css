@@ -422,4 +422,7 @@ footer h3 {
         margin-top: -100px;
         margin-left: 10%;
     }
+    .right .text-text{
+        text-align: center;
+    }
 }
