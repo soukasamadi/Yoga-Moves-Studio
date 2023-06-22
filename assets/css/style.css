@@ -276,6 +276,7 @@ header .member-icon{
     min-height: 200px;
     background-color: #000;
 }
+
 .newsletter-text{
     margin-left: 12%;
     color: #fff;
@@ -344,6 +345,9 @@ footer h3 {
         padding: 2rem;
     }
 
+    .text-imagee{
+        min-height: auto;
+    }
 
 }
 
@@ -380,6 +384,11 @@ footer h3 {
 
     header .member-btn a {
         letter-spacing: normal;
+    }
+
+    
+    .text-imagee{
+        min-height: auto;
     }
 
 
