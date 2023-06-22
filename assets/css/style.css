@@ -442,22 +442,24 @@ footer h3 {
         display: block;  
         padding-top: 20px;
         padding-bottom: 30px;
+        text-align: center;
+        
     }
     .newsletter-text{
         text-align: center;
         margin-left: 0;
+        margin-bottom: 20px;
 
     }
     .newsletter-form{
-        margin-right: 0;
-        margin-left: 9%;
-        margin-top: 20px;
+        margin: auto;
     }
     .newsletter-form input{
         width: 180px;
         padding: 16px 20px; 
         box-sizing: border-box;
         border-radius: 8px 0  0 8px;
+        text-align: center;
     }
     .newsletter-form a{
         margin-left: -3px;
@@ -466,6 +468,7 @@ footer h3 {
         border-radius: 0 8px 8px 0;
         padding:14px 15px 15px 10px;
         font-size: 16px;
+        text-align: center;
     }
 
     .social-media a {
