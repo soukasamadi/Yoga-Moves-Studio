@@ -388,8 +388,7 @@ footer h3 {
 @media (max-width:480px) {
 
     html {
-        font-size: 50%;
-        overflow: hidden;
+        font-size: 50%;  
     }
 
     header .member-btn a {
