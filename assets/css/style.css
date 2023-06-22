@@ -427,4 +427,34 @@ footer h3 {
     .right .text-text{
         text-align: center;
     }
+
+    .newsletter{
+        display: block;  
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+    .newsletter-text{
+        text-align: center;
+        margin-left: 0;
+
+    }
+    .newsletter-form{
+        margin-right: 0;
+        margin-left: 9%;
+        margin-top: 20px;
+    }
+    .newsletter-form input{
+        width: 180px;
+        padding: 16px 20px; 
+        box-sizing: border-box;
+        border-radius: 8px 0  0 8px;
+    }
+    .newsletter-form a{
+        margin-left: -3px;
+        color: white;
+        background-color: #333;
+        border-radius: 0 8px 8px 0;
+        padding:14px 15px 15px 10px;
+        font-size: 16px;
+    }
 }
