@@ -348,6 +348,19 @@ footer h3 {
     .text-imagee{
         min-height: auto;
     }
+    .newsletter {
+        text-align: center;
+        display: block;
+    }
+    
+    .newsletter-text{
+        margin-left: 0;
+        padding-top: 20px;
+    }
+    .newsletter-form{
+        margin-right: 0;
+        margin-top: 20px;
+    }
 
 }
 
