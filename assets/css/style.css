@@ -178,7 +178,7 @@ header .member-icon{
 
 .container .box-container .box img {
     width: 280px;
-    height: 180px;
+    height: auto;
 }
 
 .container .box-container .box h3 {
