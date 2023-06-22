@@ -403,6 +403,9 @@ footer h3 {
     header .member-icon a{
         color: rgb(20, 20, 20);
     }
+    .move h1 {
+        font-size: 25px;
+    }
 
     .container {
         padding: 15%;
