@@ -331,6 +331,26 @@ footer h3 {
 }
 
 
+/*About Page*/
+/*about section*/
+.about-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    height: 200px;  
+}
+.about-content{
+    padding-top: 60px;
+    color: #fff;
+    font-size: x-large;
+}
+
+
+
+
+
+
 
 
 
