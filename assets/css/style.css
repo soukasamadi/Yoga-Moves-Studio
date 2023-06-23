@@ -406,6 +406,30 @@ footer h3 {
 .instructor p {
     color: black;
 }
+.container .box-container-instructor {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 15px;
+}
+
+.container .box-container-instructor .box {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.container .box-container-instructor .box img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+
+.container .box-container-instructor .box h3 {
+    color: black;
+    font-size: 14px;
+    padding: 10px 0;
+    text-align: center;
+    letter-spacing: 2px;
+}
 
 
 
