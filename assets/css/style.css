@@ -393,6 +393,19 @@ footer h3 {
 .box-review .box p{
     font-size: 23px;
 }
+.instructor {
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -100px;
+}
+.instructor h1,
+.instructor p {
+    color: black;
+}
 
 
 
@@ -474,6 +487,10 @@ footer h3 {
 
     .box-review .box {
         width: 40%;
+    }
+    .content p {
+        font-size: 25px;
+        line-height: 35px;
     }
 }
 
@@ -585,6 +602,18 @@ footer h3 {
     .box-review .box {
         width: 80%;
         font-size: 25px;
+    }
+    .instructor {
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-top: -160px;
+    }
+    .content h1 {
+        font-size: 22px;
+        margin-bottom: 10px;
+    }
+    .content p {
+        font-size: 18px;
     }
 
 }
