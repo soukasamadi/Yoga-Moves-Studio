@@ -371,6 +371,28 @@ footer h3 {
     padding-left: 10%;
     padding-right: 10%;
 }
+.review-container{
+    text-align: center;
+}
+.box-review {
+    margin-top: 50px;
+    
+}
+
+.box-review .box {
+    display: inline-block;
+    margin: 10px 20px;
+    width: 22%;
+    font-size: 40px;
+}
+
+.box-review .box h3{
+    font-size: 30px;
+}
+
+.box-review .box p{
+    font-size: 23px;
+}
 
 
 
@@ -450,7 +472,9 @@ footer h3 {
         min-height: auto;
     }
 
-
+    .box-review .box {
+        width: 40%;
+    }
 }
 
 @media (max-width:480px) {
@@ -555,6 +579,12 @@ footer h3 {
         padding-left: 0;
         padding-right: 0;
     }
-
+    .box-review {
+    margin-top: 10px;
+    }
+    .box-review .box {
+        width: 80%;
+        font-size: 25px;
+    }
 
 }
