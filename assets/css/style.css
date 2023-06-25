@@ -515,6 +515,10 @@ input:checked ~ .accordion-content {
     margin-top: 70px;
     padding-bottom: 50px;
     min-height: 90vh;
+    background: url(../images/contact.jpg) rgba(0, 0, 0, 0.7);
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .container-two {
