@@ -560,6 +560,7 @@ input:checked ~ .accordion-content {
 .contact-info-item {
     display: flex;
     margin-bottom: 30px;
+    align-items: center;
 }
 
 .contact-info-icon {
