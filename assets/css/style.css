@@ -694,6 +694,13 @@ input:checked ~ .accordion-content {
     background-color: #d4b895;
     color: #000;
 }
+.thank-you .check-icon{
+    font-size: 90px;
+    font-weight: 600;
+    color: #000;
+    margin-bottom: 30px;
+    
+}
 
 
 
