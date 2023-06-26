@@ -657,6 +657,43 @@ input:checked ~ .accordion-content {
     background: #d4b895;
     color: black;
 }  
+/*Thank-you page*/
+.thank-you{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 80vh;
+    width: 100%;
+}
+.thank-you .letter-icon{
+    text-align: center;
+    font-size: 90px;
+    margin-bottom: 30px;
+}
+.thank-you .heading-thanks{
+    font-size: 40px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.thank-you .thanks-msg{
+    font-size: 20px;
+    font-weight: 200;
+    text-align: center;
+    margin-bottom: 60px;
+}
+.thank-you a{
+    text-align: center;
+    padding: 8px 26px;
+    color: #FFF;
+    letter-spacing: 5px;
+    background-color: #000;
+    font-size: 20px;  
+}
+.thank-you a:hover{
+    background-color: #d4b895;
+    color: #000;
+}
 
 
 
