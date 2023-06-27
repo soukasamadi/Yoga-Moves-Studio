@@ -708,11 +708,11 @@ input:checked ~ .accordion-content {
     align-items: center;
     margin-top: 100px;
 }
-.member-content{
+.member-row .member-content{
     width: 50%;
 }
    
-.member-titel {
+.member-row .member-titel {
     font-size: 2.2em;
     font-weight: 300;
     color: black;
@@ -721,8 +721,8 @@ input:checked ~ .accordion-content {
 }
    
    
-#member-form label,
-#member-form .labels{
+.member-row #member-form label,
+.member-row #member-form .labels{
         display: block;
         margin-bottom: 2%;
         font-size: 1.1em;
@@ -730,11 +730,11 @@ input:checked ~ .accordion-content {
         color: #333;
         letter-spacing: 0.5px;
 }
-.class-select{
+.member-row .class-select{
     margin-top: 8px;
 }
-input,
-select {
+.member-row input,
+.member-row select {
     display: block;
     width: 100%;
     overflow: hidden;
@@ -742,7 +742,7 @@ select {
     border: 2px solid #333;
 }
    
-input {
+.member-row input {
     margin-top: 1.5%;
     padding: 0 0 5px 0;
     background: transparent;
@@ -755,7 +755,7 @@ input {
 }
    
        
-[type="radio"]{
+.member-row [type="radio"]{
     display: inline-block;
     margin: 0 10px 0 0;
     position: relative;
@@ -772,18 +772,18 @@ input {
     border: 1px solid #333;
     border-radius: 50%;
 }       
-select {
+.member-row select {
     height: 40px;
     padding-left: 5px;
     border: 2px solid #333;
     color: #333;   
 }
-select option{
+.member-row select option{
     padding: 5px 10px;
     font-weight: 300;
     cursor: pointer;
 } 
-textarea {
+.member-row textarea {
     resize: none;
     margin-top: 2%;
     padding: 10px 10px 0px 20px;
@@ -793,7 +793,7 @@ textarea {
     border: 2px solid #333;
 }
    
-.btn {
+.member-row .btn {
     display: inline-block;
     position: relative;
     width: 100%;
@@ -808,11 +808,11 @@ textarea {
     text-align: center;
     background: black; 
 }   
-.btn:hover{
+.member-row .btn:hover{
     background-color: rgba(212, 184, 149, 0.957);
     color: black;              
 }
-fieldset {
+.member-row fieldset {
     margin: 5% 0 0 0;
 }
 
