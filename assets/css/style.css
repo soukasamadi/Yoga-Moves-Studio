@@ -398,6 +398,9 @@ footer h3 {
     align-items: center;
     margin-top: -100px;
 }
+.instructor h2{
+    font-size: 35px;
+}
 .instructor h2,
 .instructor p {
     color: black;
