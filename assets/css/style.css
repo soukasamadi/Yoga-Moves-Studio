@@ -353,7 +353,7 @@ footer h3 {
     padding-bottom: 50px;
 }
 
-.about h1 {
+.about h2 {
     font-size: 35px;
     margin-bottom: 30px;
     
@@ -398,7 +398,7 @@ footer h3 {
     align-items: center;
     margin-top: -100px;
 }
-.instructor h1,
+.instructor h2,
 .instructor p {
     color: black;
 }
@@ -1016,7 +1016,7 @@ input:checked ~ .accordion-content {
     .about {
         margin-top: auto;
     }
-    .about h1 {
+    .about h2 {
         font-size: 25px;
         margin-bottom: 30px;
     }
@@ -1039,7 +1039,7 @@ input:checked ~ .accordion-content {
         padding-right: 10px;
         margin-top: -160px;
     }
-    .content h1 {
+    .content h2 {
         font-size: 22px;
         margin-bottom: 10px;
     }
