@@ -30,8 +30,94 @@
             <a href="member.html">Become A Member</a>
         </div>
         <div class="member-icon"><a href="member.html" class="fa fa-user"></a></div>
-
     </header>
+
+    <!--member main section-->
+    <main id="main" class="container">
+        <div class="row">
+           <div class="member-content">
+              <div class="text-center">
+                 <h1 class ="member-titel" id="title">Become A Member</h1>
+              </div>
+              <form method="post" action="thanks-member.html" id="member-form" name="member-form">
+                 <fieldset>
+                    <label for="name" id="name-label">
+                    Name *
+                    <input type="text" id="name" name="name"  required />
+                    </label>
+                 </fieldset>
+                 <fieldset>
+                    <label for="email" id="email-label">
+                    Email *
+                    <input type="email" id="email" name="email" required />
+                    </label>
+                 </fieldset>
+                                               <fieldset>
+                    <label for="address" id="address-label">
+                    Address 
+                    <input type="text" id="address" name="adress"/>
+                    </label>
+                 </fieldset>
+                                            <fieldset>
+                    <label for="city" id="city-label">
+                    City 
+                    <input type="text" id="city" name="city"/>
+                    </label>
+                 </fieldset>
+                                            <fieldset>
+                    <label for="plz" id="plz-label">
+                    PLZ
+                    <input type="text" id="plz" name="plz"/>
+                    </label>
+                 </fieldset>
+                                            <fieldset>
+                    <label for="country" id="country-label">
+                    Country
+                    <input type="text" id="country" name="country"/>
+                    </label>
+                 </fieldset>
+                 <fieldset>
+                    <label for="Date" id="number-label">
+                    Date of Birth *
+                    <input type="Date" id="Date" name="Date" required />
+                    </label>
+                 </fieldset>
+                 <fieldset>
+                    <div class="labels">
+                       How Active you are (days per week)? *
+                    </div>
+                    <label>
+                    <input type="radio" name="active" value="1-2" checked /> 1 - 2
+                    </label>
+                    <label>
+                    <input type="radio" name="active" value="3-5" /> 3 - 5
+                    </label>
+                    <label>
+                    <input type="radio" name="active" value="notSure" /> Not sure
+                    </label>
+                 </fieldset>
+                 <fieldset>
+                    <label for="classes">
+                       What class you prefer? 
+                       <select id="classes" name="classes">
+                          <option value="Vinyasa" selected>Vinyasa Yoga Class</option>
+                          <option value="Hatha">Hatha Yoga Class</option>
+                          <option value="Iyengar">Iyengar Yoga Class</option>
+                          <option value="Kundalini">Kundalini Yoga Class</option>
+                       </select>
+                    </label>
+                 </fieldset>
+                 <fieldset>
+                    <label for="member-comment">
+                    Feel free to tell us more about you!
+                    <textarea id="member-comment" maxlength="194"></textarea>
+                    </label>
+                 </fieldset>
+                 <button id="submit" type="submit" class="btn">Submit</button>
+              </form>
+           </div>
+        </div>
+     </main>
 
     <footer>
         <hr>
