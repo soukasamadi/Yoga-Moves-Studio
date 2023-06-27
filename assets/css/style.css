@@ -914,6 +914,9 @@ input:checked ~ .accordion-content {
     .contact-form {
         width: 100%;
     }
+    .member-row .member-content{
+        width: 80%;
+    }
 }
 
 @media (max-width:480px) {
@@ -1056,5 +1059,16 @@ input:checked ~ .accordion-content {
     .contact-form {
         width: 100%;
     }
+    .member-row .member-content{
+        width: 100%;
+    }
+    .member-row .inline{
+        display: inline-flex;
+    }
+
+    .member-row #member-form label{
+        margin-right: 20px;
+    }
+
 
 }
