@@ -119,4 +119,20 @@ I was inspired by [Alo Moves](https://www.alomoves.com)
 ![thank-you message for member](https://github.com/soukasamadi/Yoga-Moves-Studio/assets/131408125/453f1129-4fff-4c52-bcd8-a7692a23334d)
 
 
+# Technologies Used
+
+## Languages Used
+
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/CSS)
+
+## Other Aides and Programs Used
+
+- [Font Awesome](https://fontawesome.com/) icons for social media links
+- [Google Fonts](https://fonts.google.com/) to import 'Fjalla One' and 'Cantarell' fonts.
+- [GitHub](https://github.com/) as repository host
+- [Visual Studio Code](https://code.visualstudio.com/) to mock up functioning wireframe
+- [Gitpod](https://gitpod.com/) to develop and commit to github
+- [GitHub Pages](https://pages.github.com/) to deploy the site
+
 
