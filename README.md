@@ -58,20 +58,23 @@ I was inspired by [Alo Moves](https://www.alomoves.com)
 
 - **Discover What moves you Section**
 
-  - Tis section will allow the user to discover the diffrent types of yoga.
+  - This section will allow the user to discover the diffrent types of yoga.
   
 - **contact page**
 
-   -This page will allow the user to easily contact a responsible in YogaMoves.
+   - This page will allow the user to easily contact a responsible in YogaMoves.
 
 - **Instructors section**
-   -This section allows the user to discover the available instructors in yogamoves.
+
+   - This section allows the user to discover the available instructors in yogamoves.
 
 - **Explore our classes section**
-   -This section allows the user to compare between the available classes decide wich type of yoga he needs.   
+
+   - This section allows the user to compare between the available classes decide wich type of yoga he needs.   
 
 - **Newsletter section**
-   -This section allows the user to subscribe in Yogamoves newsletter to stay in touch.      
+
+   - This section allows the user to subscribe in Yogamoves newsletter to stay in touch.      
 
 - **The Footer**
 
