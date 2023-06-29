@@ -42,6 +42,12 @@ I wanted to elicit a feeling of Motivation to start a new lifestyle and Yoga rou
 
 I was inspired by [Alo Moves](https://www.alomoves.com)
 
+## Wireframes
+During the planning stage, I used 2D print to create wireframes for each page, and plan the structure of the site so I can have a clear idea about my goal design. 
+
+![wireframe](https://github.com/soukasamadi/Yoga-Moves-Studio/assets/131408125/b9e881cc-7df8-47dd-a89c-e8fc12b3c556)
+
+
 # Features
 
 ## Current Features
