@@ -135,4 +135,32 @@ I was inspired by [Alo Moves](https://www.alomoves.com)
 - [Gitpod](https://gitpod.com/) to develop and commit to github
 - [GitHub Pages](https://pages.github.com/) to deploy the site
 
+# Testing
 
+## Validating
+
+### HTML & CSS
+
+  No errors were returned when passing through the official:
+- [CSS Validator](https://jigsaw.w3.org/css-validator/)
+- [HTML Validator](https://validator.w3.org/)
+  
+### Lighthouse
+
+![lighthouse](https://github.com/soukasamadi/Yoga-Moves-Studio/assets/131408125/7fa1209c-5331-456e-9ed8-121f2f8001aa)
+Throughout the project i have tested the code with Lighthouse with good results but I stil have to improve the performance.
+
+## Testing User Stories from (UX) Section
+
+#### The hero image and text looks good in any responsive size and both shows through the image and tells through text to the user who we are,and what we do
+  
+#### Responsinator
+
+- Tested in responsinator
+
+#### Third party testing
+
+- I have gotten positive feedback on both usability and aesthetics from friends, family and professionals testing the site on their devices.
+
+
+**Result:** Works as intended
