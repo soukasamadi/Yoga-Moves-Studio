@@ -176,3 +176,13 @@ Throughout the project i have tested the code with Lighthouse with good results 
 ## Unfixed Bugs
 
 - Pages-build-deployment cancelled for some commits.
+
+## Deployment
+* The site was deployed to GitHub pages by the following steps:
+    1. Log in to GitHub and select Future Fuels repository.
+    2. Navigate to Settings tab.
+    3. Navigate to Pages from the left-hand menu.
+    4. In Source select "Deploy from a branch".
+    5. In Branch select "main".
+    6. Select Save.
+    7. After several minutes the live site was deployed 
