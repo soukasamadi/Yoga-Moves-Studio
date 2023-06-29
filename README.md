@@ -186,3 +186,19 @@ Throughout the project i have tested the code with Lighthouse with good results 
     5. In Branch select "main".
     6. Select Save.
     7. After several minutes the live site was deployed 
+
+# Credits
+- Text content was written by me but I was inspired by [AloMoves](https://www.alomoves.com)
+
+### README
+
+I used this template for my README file : [Code Institure Readme](https://github.com/Code-Institute-Solutions/readme-template/blob/master/README.md?plain=1)
+- 
+
+### Media
+
+- The logo is made by me Using Html and CSS.
+
+- All the home page images are from [Freepik](https://www.freepik.com). 
+- Instructors Images are from [aloMoves](https://www.alomoves.com).
+- any other pictures are from freepik.
