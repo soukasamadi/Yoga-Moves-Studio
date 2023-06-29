@@ -170,3 +170,9 @@ Throughout the project i have tested the code with Lighthouse with good results 
 
 
 **Result:** Works as intended
+
+# Bugs
+
+## Unfixed Bugs
+
+- Pages-build-deployment cancelled for some commits.
