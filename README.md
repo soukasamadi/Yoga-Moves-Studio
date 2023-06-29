@@ -84,4 +84,39 @@ I was inspired by [Alo Moves](https://www.alomoves.com)
 
   - This page will allow the user to register in  YogaMoves comunity to start their Yoga journey.
 
+## Pages screenshots
+
+### Index Page
+
+![home page](https://github.com/soukasamadi/Yoga-Moves-Studio/assets/131408125/fd93e121-fa89-447b-ba97-5fae0a1254aa)
+
+
+### About Page
+
+![about us page](https://github.com/soukasamadi/Yoga-Moves-Studio/assets/131408125/434a476f-5d01-43de-9293-e12b4f46b1c5)
+
+
+### Member Page
+
+![member page](https://github.com/soukasamadi/Yoga-Moves-Studio/assets/131408125/c1334a56-a380-4ed4-b813-bd386ee25b95)
+
+### Contact Page
+
+![contact us](https://github.com/soukasamadi/Yoga-Moves-Studio/assets/131408125/238881c9-1482-4c79-b578-4e4579cdafd1)
+
+### Thank you pages
+
+#### For newsletter
+
+![thank you message for newsletter](https://github.com/soukasamadi/Yoga-Moves-Studio/assets/131408125/21d286c6-baab-461a-a826-159c8d678d3b)
+
+#### For Contact form
+
+![thank you message for contact](https://github.com/soukasamadi/Yoga-Moves-Studio/assets/131408125/39b70454-a2af-4a36-8035-96afef61b90b)
+
+#### For Member registration form
+
+![thank-you message for member](https://github.com/soukasamadi/Yoga-Moves-Studio/assets/131408125/453f1129-4fff-4c52-bcd8-a7692a23334d)
+
+
 
